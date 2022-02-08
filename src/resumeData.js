@@ -55,7 +55,7 @@ let resumeData = {
       YearOfLeaving: "2019",
     },
   ],
-  skillsDescription: "My skills here",
+  skillsDescription: "Proficient in",
   skills: [
     {
       skillname: "Javascript",
@@ -75,24 +75,28 @@ let resumeData = {
   ],
   portfolio: [
     {
-      name: "project1",
-      description: "mobileapp",
-      imgurl: "images/portfolio/phone.jpg",
+      name: "Weather Dashboard",
+      description:
+        "User is able to use the application to check the weather in their desired city. Application provides a five day forecast.",
+      imgurl: "images/weather.png",
+      link: "https://smithnaomi.github.io/Weather-Dashboard/",
+      repo: "https://github.com/smithnaomi/Weather-Dashboard/",
     },
     {
-      name: "project2",
-      description: "mobileapp",
-      imgurl: "images/portfolio/project.jpg",
+      name: "Progressive Budget",
+      description:
+        "An application that helps users track transactions and totals.",
+      imgurl: "images/budget.png",
+      link: "https://murmuring-atoll-81991.herokuapp.com/",
+      repo: "https://github.com/smithnaomi/Progressive-Budget",
     },
     {
-      name: "project3",
-      description: "mobileapp",
-      imgurl: "images/portfolio/project2.png",
-    },
-    {
-      name: "project4",
-      description: "mobileapp",
-      imgurl: "images/portfolio/phone.jpg",
+      name: "Narrative Treasures",
+      description:
+        "An application used by both Game Runners and players to create manage and interact with a marketplace economy",
+      imgurl: "images/treasures.png",
+      link: "https://narrative-treasures.herokuapp.com/",
+      repo: "https://github.com/jparris3213/Narrative_Treasures",
     },
   ],
   testimonials: [
