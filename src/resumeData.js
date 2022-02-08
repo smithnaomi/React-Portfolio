@@ -22,7 +22,8 @@ let resumeData = {
       className: "fa fa-twitter",
     },
   ],
-  aboutme: " MEMEMEMEMEMEEMMMMEMEM ",
+  aboutme:
+    " The desire to continue to learn, be creative and problem solve are a few skills that i  ",
   address: "Raleigh,NC ",
   website: "https://github.com/smithnaomi",
   education: [
