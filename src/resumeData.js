@@ -23,7 +23,7 @@ let resumeData = {
     },
   ],
   aboutme:
-    " The desire to continue to learn, be creative and problem solve are a few skills that i  ",
+    " The desire to continue to learn, love for research, creativity and problem solving are a few skills that I bring into tech. I am 26 years old and transitioning from veterinary medicine into tech. My desire is to find a company that will nurture my skills and to find ways to add value to a company.  ",
   address: "Raleigh,NC ",
   website: "https://github.com/smithnaomi",
   education: [
