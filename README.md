@@ -26,6 +26,7 @@ _Naomi Smith_
 - [Usage](#Usage)
 - [Contributing](#Contributing)
 - [Questions](#Questions)
+- [Attribution](#Attribution)
 - [License](#License)
 
 ## Overview
@@ -64,6 +65,10 @@ For any questions about the project, please contact me by either of the followin
 or visit my GitHub profile:
 
 <!-- - Application GitHub - [smithnaomi](https://github.com/smithnaomi/Fitness-Tracker) -->
+
+# Attribution
+
+Portfolio template from rbhatia46
 
 ## License
 
